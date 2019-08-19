@@ -28,7 +28,7 @@
     "config": "^3.0.0",
     "html-to-text": "^4.0.0",
     "inline-css": "^2.2.4",
-    "koa": "^2.5.0",
+    "koa": "^2.8.1",
     "koa-compress": "^3.0.0",
     "koa-logger": "^3.1.0",
     "koa-router": "^7.4.0",
